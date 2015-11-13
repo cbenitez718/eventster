@@ -1,0 +1,23 @@
+.table{
+    display: table;
+    border: 1px solid black;
+}
+
+.tableRow{
+    display: table-row;
+    padding: 2rem;
+}
+
+.tableCell{
+    display: table-cell;
+    border: 1px solid black;
+}
+
+#title{
+    font-family: "Open Sans", sans-serif;
+    font-weight: bolder;
+    font-size: 2rem;
+    border-bottom: 3px solid black;
+    margin-bottom: 1.5rem;
+    letter-spacing: 1rem;
+}

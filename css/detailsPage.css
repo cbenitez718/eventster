@@ -1,0 +1,33 @@
+HTML{
+    font-family: "Open Sans", sans-serif;
+}
+.eventDetails{
+    border: 2px solid black;
+    font-weight: normal;
+    box-shadow: 5px 5px gray;
+}
+
+.eventName{
+    border-bottom: 1px solid black;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.eventDate{
+    font-weight: normal;
+}
+.eventLocation{
+    font-weight: normal;
+    font-style: italic;
+}
+.eventDescription{
+    color: blue;
+}
+
+#title{
+    font-weight: bolder;
+    font-size: 2rem;
+    border-bottom: 3px solid black;
+    margin-bottom: 1.5rem;
+    letter-spacing: 1rem;
+}
